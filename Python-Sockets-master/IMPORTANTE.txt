@@ -1,0 +1,23 @@
+Kevin Alexander Rodriguez Bedoya cc 1225092708
+Marlon Deyber Restrepo Rodriguez cc 1225093621
+Diego Alexander Agudelo Granada  cc 1088351699
+
+Proyecto Final de Sistemas Distribuidos
+
+Nuestro proyecto consta por una base de datos creada en Heidi usando mysql, una clase Servidor y una clase Cliente.
+
+Primero se debera ejecutar el servidor para iniciarlo.
+Segundo sin cerrar el servidor se ejecuta el Cliente, una vez se ejecute saldra el menu principal de registro e inicio de sesion.
+
+Cabe recalcar que el proyecto hasta ahora fue implementado de manera local y no son funcionales el 100% de  los comandos, solo algunos.
+
+************************************************NOTA*****************************************************
+Adjunto tendra:
+-Archivo Servidor.py
+-Archivo Cliente.py
+-Imagen de la base de datos (ya que no es posible enviarla en si)
+
+En el siguiente enlace encontrara una grabacion de meet en la cual se explica el codigo y se muestra nuestro proyecto en ejecucion, hasta el minuto 4:30 se vera la explicacion del codigo, luego sigue la ejecucion.
+En caso de que el link tenga algun problema la grabacion tambien sera compartida a su correo swokosky@utp.edu.co
+
+Enlace de la grabacion : https://drive.google.com/file/d/1A4MDUbCflWNJUrsI18Uz6ERGgfRpkVM1/view?usp=sharing
